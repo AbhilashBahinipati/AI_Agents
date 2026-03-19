@@ -82,6 +82,6 @@ python sequential_agent.py
 
 ## Pattern Selection Framework
 
-See [PATTERNS_GUIDE.md](./PATTERNS_GUIDE.md) for a detailed breakdown of each pattern including when to use it, when to avoid it, cost and latency tradeoffs, and a decision framework for selecting the right pattern for your use case.
+See [PATTERNS_GUIDE.md](./PATTERNS_GUIDE.MD) for a detailed breakdown of each pattern including when to use it, when to avoid it, cost and latency tradeoffs, and a decision framework for selecting the right pattern for your use case.
 
 
